@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab88d7f5-276c-4b27-b622-07a7ad8fb357" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jmnpKaeCQDCk7FrdXkWvT5ifFa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter7" />
+      <recent name="chapter6" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MinHeap">
+    <configuration name="BSTTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.BSTTraversal" />
+      <module name="TutorialProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.Heap" />
+      <module name="TutorialProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.MinHeap" />
+      <module name="TutorialProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.QueueArray" />
+      <module name="TutorialProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Traversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.Traversal" />
+      <module name="TutorialProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.QueueArray" />
+      <item itemvalue="Application.Traversal" />
+      <item itemvalue="Application.BSTTraversal" />
+      <item itemvalue="Application.Heap" />
+      <item itemvalue="Application.MinHeap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinHeap" />
+        <item itemvalue="Application.Heap" />
+        <item itemvalue="Application.BSTTraversal" />
+        <item itemvalue="Application.Traversal" />
+        <item itemvalue="Application.QueueArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/spark-etl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SparkWordCount-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../programming-scala-book-code-examples-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../programming-scala-book-code-examples-release-2.2.0" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab88d7f5-276c-4b27-b622-07a7ad8fb357" name="Default Changelist" comment="" />
+      <created>1604418315640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604418315640</updated>
+      <workItem from="1604418318427" duration="5169000" />
+      <workItem from="1604466565386" duration="1689000" />
+      <workItem from="1604999501019" duration="1849000" />
+      <workItem from="1605009537684" duration="1000" />
+      <workItem from="1605179975820" duration="3809000" />
+      <workItem from="1605270484937" duration="1940000" />
+      <workItem from="1605359241283" duration="2142000" />
+      <workItem from="1605367144376" duration="389000" />
+      <workItem from="1605420089976" duration="13576000" />
+      <workItem from="1605593048838" duration="9600000" />
+      <workItem from="1605683812347" duration="3674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605008665870">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961@0.23.1680.961" timestamp="1605008665870" />
+    <state x="546" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605421933149">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="546" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.956@0.23.1680.956" timestamp="1605421933149" />
+    <state x="546" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.958@0.23.1680.958" timestamp="1605277517321" />
+    <state width="448" height="466" key="DebuggerActiveHint" timestamp="1605688983139">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="448" height="466" key="DebuggerActiveHint/0.23.1680.961@0.23.1680.961" timestamp="1605688983139" />
+    <state width="421" height="466" key="DebuggerActiveHint/0.23.1680.963@0.23.1680.963" timestamp="1605607752588" />
+    <state width="1638" height="339" key="GridCell.Tab.0.bottom" timestamp="1605693647168">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="359" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1605443363700" />
+    <state width="1638" height="359" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1605594082815" />
+    <state width="1638" height="359" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1605684050403" />
+    <state width="1638" height="339" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1605693647168" />
+    <state width="1638" height="359" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1605621869898" />
+    <state width="1638" height="315" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
+    <state width="1638" height="339" key="GridCell.Tab.0.center" timestamp="1605693647168">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="359" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1605443363699" />
+    <state width="1638" height="359" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1605594082814" />
+    <state width="1638" height="359" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1605684050402" />
+    <state width="1638" height="339" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1605693647168" />
+    <state width="1638" height="359" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1605621869897" />
+    <state width="1638" height="315" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
+    <state width="1638" height="339" key="GridCell.Tab.0.left" timestamp="1605693647167">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="359" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1605443363699" />
+    <state width="1638" height="359" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1605594082813" />
+    <state width="1638" height="359" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1605684050401" />
+    <state width="1638" height="339" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1605693647167" />
+    <state width="1638" height="359" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1605621869896" />
+    <state width="1638" height="315" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1605634599041" />
+    <state width="1638" height="339" key="GridCell.Tab.0.right" timestamp="1605693647168">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="359" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1605443363699" />
+    <state width="1638" height="359" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1605594082814" />
+    <state width="1638" height="359" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1605684050402" />
+    <state width="1638" height="339" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1605693647168" />
+    <state width="1638" height="359" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1605621869898" />
+    <state width="1638" height="315" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom" timestamp="1605689040107">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1605689040107" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1605608663179" />
+    <state width="1638" height="315" key="GridCell.Tab.1.bottom/0.23.1680.966@0.23.1680.966" timestamp="1605634599043" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center" timestamp="1605689040107">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1605689040107" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1605608663178" />
+    <state width="1638" height="315" key="GridCell.Tab.1.center/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left" timestamp="1605689040106">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1605689040106" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1605608663178" />
+    <state width="1638" height="315" key="GridCell.Tab.1.left/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right" timestamp="1605689040107">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="315" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1605689040107" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1605608663178" />
+    <state width="1638" height="315" key="GridCell.Tab.1.right/0.23.1680.966@0.23.1680.966" timestamp="1605634599043" />
+    <state x="496" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1605683819455">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="496" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1605593047876" />
+    <state x="496" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1605368149486" />
+    <state x="496" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1605683819455" />
+    <state x="496" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1604418319291" />
+    <state x="496" y="334" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1604466564169" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/Heap.java</url>
+          <line>206</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
