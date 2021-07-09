@@ -14,7 +14,7 @@ public class TowersOfHanoii{
     
     public static void main(String args[]){
         TowersOfHanoii towersOfHanoii = new TowersOfHanoii();
-        towersOfHanoii.performTOIOperation(10,"A","C","B");
+        towersOfHanoii.performTOIOperation(3,"Source","Destination","Aux");
     }
 }
 

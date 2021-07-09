@@ -3,7 +3,7 @@ package chapter2;
 public class Factorial{
     
     public int Factorial(int n){
-        if(n <= 1){
+        if(n == 0){
             return 1;
         }
         return n * Factorial(n-1);

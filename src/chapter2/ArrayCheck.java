@@ -15,7 +15,7 @@ public class ArrayCheck {
     }
     
     public static void main(String args[]){
-         int arr[] = { 20, 23, 23, 45, 78, 88 };
+        int arr[] = { 20, 23, 23, 45, 78, 88 };
         int arr1[] = {1,2,3,5,4};
         ArrayCheck arrayCheck = new ArrayCheck();
         System.out.println(arrayCheck.checkArrayOrderAsc(arr,arr.length));

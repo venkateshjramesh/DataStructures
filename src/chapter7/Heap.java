@@ -118,8 +118,9 @@ public class Heap {
 
         this.count = n;
 
-        for(int i = (n - 1)/ 2 ; i >=0 ; i--)
+        for(int i = (n - 1)/ 2 ; i >=0 ; i--) {
             percolateDown(i);
+        }
 
     }
 

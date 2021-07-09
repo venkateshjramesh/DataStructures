@@ -26,7 +26,7 @@ public class StackArray {
     
     
     public boolean isEmpty(){
-        if(index == 0){
+        if(index == -1){
             return true;
         }
         return false;
@@ -69,7 +69,20 @@ public class StackArray {
     
     
     public static void main(String args[]) throws Exception{
+
         StackArray stackArray  = new StackArray(8);
+        for(int i=0; i< 8 ;i++){
+            stackArray.push(i);
+        }
+        System.out.println(stackArray.isFull());
+        for(int i=0; i< 8 ;i++){
+            System.out.print(stackArray.pop() + " ");
+        }
+        System.out.println(" ");
+        System.out.println(stackArray.isEmpty());
+
+
+        stackArray  = new StackArray(8);
         stackArray.push(1);
         stackArray.push(2);
         stackArray.push(6);

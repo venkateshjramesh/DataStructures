@@ -3,7 +3,7 @@ package chapter7;
 import java.util.Arrays;
 
 public class MinHeap {
-    
+
     public int capacity;
     public int count;
     public int[] array;
@@ -142,7 +142,7 @@ public class MinHeap {
     
     
     public static void main(String args[]){
-        MinHeap heap = new MinHeap(7,7,"max");
+        MinHeap heap = new MinHeap(7,7,"min");
         heap.array = new int[]{1,2,3,4,5,6,7};
 
         System.out.println("*** print the arrays ***");

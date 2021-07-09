@@ -146,10 +146,15 @@ public class QueueArray {
         queueArray.enQueue(5);
         queueArray.toString();
         queueArray.toString2();
+        queueArray.deQueue();
+        queueArray.toString();
         queueArray.enQueue(6);
         queueArray.toString();
         queueArray.toString2();
-        
+        queueArray.enQueue(7);
+        queueArray.toString();
+        queueArray.toString2();
+
         queueArray.deQueue();
         queueArray.toString();
         queueArray.toString2();

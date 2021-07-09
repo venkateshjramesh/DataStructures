@@ -93,8 +93,8 @@ public class BSTTraversal {
     
     public BinarySearchTreeNode insertNode(BinarySearchTreeNode root,int data){
         if(root == null){
-            root = new BinarySearchTreeNode(null,null,0);
-            root.data = data;
+            root = new BinarySearchTreeNode(null,null,data);
+            //root.data = data;
         }else{
             if(data > root.data){
                 root.rightNode = insertNode(root.rightNode,data);

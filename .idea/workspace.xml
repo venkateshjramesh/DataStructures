@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab88d7f5-276c-4b27-b622-07a7ad8fb357" name="Default Changelist" comment="" />
+    <list default="true" id="ab88d7f5-276c-4b27-b622-07a7ad8fb357" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter19/LCS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TutorialProject/chapter2/BinaryStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TutorialProject/chapter2/BinaryStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TutorialProject/chapter2/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TutorialProject/chapter2/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TutorialProject/chapter2/Fibonocci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TutorialProject/chapter2/Fibonocci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TutorialProject/chapter2/TowersOfHanoii.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TutorialProject/chapter2/TowersOfHanoii.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TutorialProject/chapter4/StackArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TutorialProject/chapter4/StackArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TutorialProject/chapter5/QueueArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TutorialProject/chapter5/QueueArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TutorialProject/chapter6/BSTTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TutorialProject/chapter6/BSTTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TutorialProject/chapter7/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TutorialProject/chapter7/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TutorialProject/chapter7/MinHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TutorialProject/chapter7/MinHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/ArrayCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/ArrayCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/BinaryStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/BinaryStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/Fibonocci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Fibonocci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/TowersOfHanoii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/TowersOfHanoii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/StackArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/StackArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/QueueArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/QueueArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/BSTTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/BSTTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/MinHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/MinHeap.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +45,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1jmnpKaeCQDCk7FrdXkWvT5ifFa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,26 +60,38 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/chapter19" />
+      <recent name="$PROJECT_DIR$/src/chapter10" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
       <recent name="chapter7" />
       <recent name="chapter6" />
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chapter3" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MinHeap">
-    <configuration name="BSTTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.BSTTraversal" />
+  <component name="RunManager" selected="Application.LCA">
+    <configuration name="BubbleSortv1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.BubbleSortv1" />
       <module name="TutorialProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6.*" />
+          <option name="PATTERN" value="chapter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.MinHeap" />
+    <configuration name="LCA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.LCA" />
       <module name="TutorialProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.*" />
+          <option name="PATTERN" value="chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,9 +125,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.QueueArray" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.MergeSort" />
       <module name="TutorialProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,19 +152,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QueueArray" />
       <item itemvalue="Application.Traversal" />
-      <item itemvalue="Application.BSTTraversal" />
       <item itemvalue="Application.Heap" />
-      <item itemvalue="Application.MinHeap" />
+      <item itemvalue="Application.BubbleSortv1" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.LCA" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinHeap" />
+        <item itemvalue="Application.LCA" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.BubbleSortv1" />
         <item itemvalue="Application.Heap" />
-        <item itemvalue="Application.BSTTraversal" />
         <item itemvalue="Application.Traversal" />
-        <item itemvalue="Application.QueueArray" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +198,46 @@
       <workItem from="1605367144376" duration="389000" />
       <workItem from="1605420089976" duration="13576000" />
       <workItem from="1605593048838" duration="9600000" />
-      <workItem from="1605683812347" duration="3674000" />
+      <workItem from="1605683812347" duration="12384000" />
+      <workItem from="1605863409261" duration="17115000" />
+      <workItem from="1605893550159" duration="879000" />
+      <workItem from="1605937930718" duration="8728000" />
+      <workItem from="1606026170542" duration="6803000" />
+      <workItem from="1606132666762" duration="363000" />
+      <workItem from="1606295800982" duration="10803000" />
+      <workItem from="1606558119043" duration="4594000" />
+      <workItem from="1606837641032" duration="3349000" />
+      <workItem from="1608097587309" duration="7764000" />
+      <workItem from="1608185551358" duration="9995000" />
+      <workItem from="1608224883473" duration="942000" />
+      <workItem from="1608272533381" duration="5644000" />
+      <workItem from="1608526157722" duration="11631000" />
+      <workItem from="1608615911801" duration="5470000" />
+      <workItem from="1608699071919" duration="14837000" />
+      <workItem from="1608790990485" duration="2653000" />
+      <workItem from="1608875020083" duration="16339000" />
+      <workItem from="1608955874444" duration="21294000" />
+      <workItem from="1609047834312" duration="16187000" />
+      <workItem from="1609133011342" duration="22599000" />
+      <workItem from="1609217363180" duration="773000" />
+      <workItem from="1609307740297" duration="10028000" />
+      <workItem from="1609397183182" duration="10295000" />
+      <workItem from="1609483008744" duration="8688000" />
+      <workItem from="1609580423361" duration="5908000" />
+      <workItem from="1609656703371" duration="1930000" />
+      <workItem from="1609831392284" duration="11457000" />
+      <workItem from="1609908425467" duration="6371000" />
+      <workItem from="1610002312735" duration="4356000" />
+      <workItem from="1610108162114" duration="725000" />
+      <workItem from="1610178511789" duration="13339000" />
+      <workItem from="1610260693449" duration="7688000" />
+      <workItem from="1610347112564" duration="8183000" />
+      <workItem from="1610519001383" duration="9608000" />
+      <workItem from="1613622786313" duration="1296000" />
+      <workItem from="1615266586143" duration="6143000" />
+      <workItem from="1615468311831" duration="972000" />
+      <workItem from="1615534476006" duration="8186000" />
+      <workItem from="1615603520744" duration="347000" />
     </task>
     <servers />
   </component>
@@ -156,156 +245,203 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605008665870">
-      <screen x="0" y="23" width="1680" height="961" />
+    <state x="495" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1625827965718">
+      <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961@0.23.1680.961" timestamp="1605008665870" />
-    <state x="546" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605421933149">
-      <screen x="0" y="23" width="1680" height="956" />
-    </state>
-    <state x="546" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.956@0.23.1680.956" timestamp="1605421933149" />
-    <state x="546" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.958@0.23.1680.958" timestamp="1605277517321" />
-    <state width="448" height="466" key="DebuggerActiveHint" timestamp="1605688983139">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state width="448" height="466" key="DebuggerActiveHint/0.23.1680.961@0.23.1680.961" timestamp="1605688983139" />
-    <state width="421" height="466" key="DebuggerActiveHint/0.23.1680.963@0.23.1680.963" timestamp="1605607752588" />
-    <state width="1638" height="339" key="GridCell.Tab.0.bottom" timestamp="1605693647168">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state width="1638" height="359" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1605443363700" />
-    <state width="1638" height="359" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1605594082815" />
-    <state width="1638" height="359" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1605684050403" />
-    <state width="1638" height="339" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1605693647168" />
-    <state width="1638" height="359" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1605621869898" />
-    <state width="1638" height="315" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
-    <state width="1638" height="339" key="GridCell.Tab.0.center" timestamp="1605693647168">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state width="1638" height="359" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1605443363699" />
-    <state width="1638" height="359" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1605594082814" />
-    <state width="1638" height="359" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1605684050402" />
-    <state width="1638" height="339" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1605693647168" />
-    <state width="1638" height="359" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1605621869897" />
-    <state width="1638" height="315" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
-    <state width="1638" height="339" key="GridCell.Tab.0.left" timestamp="1605693647167">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state width="1638" height="359" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1605443363699" />
-    <state width="1638" height="359" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1605594082813" />
-    <state width="1638" height="359" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1605684050401" />
-    <state width="1638" height="339" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1605693647167" />
-    <state width="1638" height="359" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1605621869896" />
-    <state width="1638" height="315" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1605634599041" />
-    <state width="1638" height="339" key="GridCell.Tab.0.right" timestamp="1605693647168">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state width="1638" height="359" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1605443363699" />
-    <state width="1638" height="359" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1605594082814" />
-    <state width="1638" height="359" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1605684050402" />
-    <state width="1638" height="339" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1605693647168" />
-    <state width="1638" height="359" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1605621869898" />
-    <state width="1638" height="315" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
-    <state width="1638" height="315" key="GridCell.Tab.1.bottom" timestamp="1605689040107">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state width="1638" height="315" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1605689040107" />
-    <state width="1638" height="315" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1605608663179" />
-    <state width="1638" height="315" key="GridCell.Tab.1.bottom/0.23.1680.966@0.23.1680.966" timestamp="1605634599043" />
-    <state width="1638" height="315" key="GridCell.Tab.1.center" timestamp="1605689040107">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state width="1638" height="315" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1605689040107" />
-    <state width="1638" height="315" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1605608663178" />
-    <state width="1638" height="315" key="GridCell.Tab.1.center/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
-    <state width="1638" height="315" key="GridCell.Tab.1.left" timestamp="1605689040106">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state width="1638" height="315" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1605689040106" />
-    <state width="1638" height="315" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1605608663178" />
-    <state width="1638" height="315" key="GridCell.Tab.1.left/0.23.1680.966@0.23.1680.966" timestamp="1605634599042" />
-    <state width="1638" height="315" key="GridCell.Tab.1.right" timestamp="1605689040107">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state width="1638" height="315" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1605689040107" />
-    <state width="1638" height="315" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1605608663178" />
-    <state width="1638" height="315" key="GridCell.Tab.1.right/0.23.1680.966@0.23.1680.966" timestamp="1605634599043" />
-    <state x="496" y="333" key="com.intellij.ide.util.TipDialog" timestamp="1605683819455">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state x="496" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1605593047876" />
-    <state x="496" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1605368149486" />
-    <state x="496" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1605683819455" />
-    <state x="496" y="333" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1604418319291" />
-    <state x="496" y="334" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1604466564169" />
+    <state x="495" y="332" key="com.intellij.ide.util.TipDialog/0.25.1680.956@0.25.1680.956" timestamp="1625827965718" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/BinaryStrings.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapter2/KaryStrings.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/chapter7/Heap.java</url>
-          <line>206</line>
+          <line>207</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/DisjointUnionSets.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/DisjointUnionSets.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/DisjointUnionSets.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/DisjointUnionSets.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/DisjointUnionSets.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/DisjointUnionSets.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/DisjointUnionSets.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/DoublyLinkedList.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/DoublyLinkedList.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/CircularLinkedList.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/CircularLinkedList.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter6/Traversal.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/GraphBFS.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/GraphBFS.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/GraphBFS.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/MinmumSpanningTree.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/MinmumSpanningTree.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/PathUnweighted.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/PathUnweighted.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/PathUnweighted.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/PathUnweighted.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/Graph.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/Graph.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/Graph.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/Graph.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/Graph.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/MinmumSpanningTree.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/MinmumSpanningTree.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/MinmumSpanningTree.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/MinmumSpanningTree.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/MinmumSpanningTree.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/bfs/MinmumSpanningTree.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter3/LinkedList.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/PairSums.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/PairSums.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/PairSums.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/PairSums.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
